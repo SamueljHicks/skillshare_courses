@@ -1,2 +1,6 @@
 # skillshare_courses
-projects undertaken through skillshare courses.
+
+The Complete Python Course: Beginner to Advanced!
+Joseph Delgadillo
+
+RPG Battle Script
