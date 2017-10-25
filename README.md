@@ -2,6 +2,6 @@
 
 # The Complete Python Course: Beginner to Advanced!
 
-by Joseph Delgadillo
+by @nickgermaine
 
 - RPG Battle Script
