@@ -2,7 +2,6 @@
 
 # The Complete Python Course: Beginner to Advanced!
 
-Joseph Delgadillo
+by Joseph Delgadillo
 
-
-RPG Battle Script
+    RPG Battle Script
