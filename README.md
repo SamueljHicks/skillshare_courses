@@ -4,4 +4,4 @@
 
 by Joseph Delgadillo
 
-    RPG Battle Script
+- RPG Battle Script
