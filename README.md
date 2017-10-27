@@ -5,3 +5,4 @@
 by @nickgermaine
 
 - RPG Battle Script
+- Web Image Scraper
